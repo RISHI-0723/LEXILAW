@@ -111,8 +111,7 @@ LexiLaw/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
-├── README.md
-└── CLAUDE.md           # project instructions
+├── README.md           # project instructions
 ```
 
 ## 10. Windows installation steps (PowerShell)
